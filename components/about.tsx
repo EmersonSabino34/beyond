@@ -25,7 +25,6 @@ export function About() {
   ]
   
   return (
-    
     // <section id="about" className="py-15 bg-linear-to-tl from-[#980A0A] to-[#040908] text-white">
     <section id="about" className="py-15 bg-white">
       <div className="container mx-auto px-4">
