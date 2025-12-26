@@ -74,6 +74,7 @@ export function Contact() {
                   <MessageCircle className="w-5 h-5" />
                   Falar no WhatsApp
                 </a>
+                
               </Button>
               <div className="mt-6">
                 <p className="text-sm text-muted-foreground mb-4">Horário de Atendimento:</p>
