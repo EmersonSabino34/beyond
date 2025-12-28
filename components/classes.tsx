@@ -53,7 +53,6 @@ export function Classes() {
       benefits: ["Aulas personalizadas", "Equipamento incluído", "Instrutores certificados"],
     },
   ]
-
   return (
     <section id="classes" className="py-20 bg-zinc-50">
       <div className="container mx-auto px-4">
