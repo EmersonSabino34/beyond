@@ -10,7 +10,6 @@ export function Footer() {
             <p className="text-white/70 mb-4">{"Beyond is not a brand. It's a system of belief."}</p>
             <p className="text-white/70">A Movement. A Way of Life.</p>
           </div>
-
           <div>
             <h4 className="font-bold mb-4">Links Rápidos</h4>
             <ul className="space-y-2">
