@@ -4,7 +4,6 @@ import { MessageCircle } from "lucide-react"
 
 export function Classes() {
   const classes = [
-    
     {
       name: "Jiu-Jitsu",
       description: "Arte marcial brasileira focada em técnicas de solo e submissões",
