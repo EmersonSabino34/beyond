@@ -86,7 +86,6 @@ export function Classes() {
                     </li>
                   ))}
                 </ul>
-                
                 <Button className="w-full bg-red-600 hover:bg-red-700" asChild>
                   <a
                     href="https://wa.me/351912345678"
