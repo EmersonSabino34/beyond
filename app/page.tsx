@@ -10,7 +10,6 @@ import { Footer } from "@/components/footer"
 // import { Store } from "@/components/footer"
 
 export default function Home() {
-  
   return (
     <main className="min-h-screen">
       <Header />
