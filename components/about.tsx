@@ -25,6 +25,7 @@ export function About() {
       description: "Metodologia comprovada e eficaz",
     },
   ]
+
   
   return (
     // <section id="about" className="py-15 bg-linear-to-tl from-[#980A0A] to-[#040908] text-white">
