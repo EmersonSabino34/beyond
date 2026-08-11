@@ -13,6 +13,7 @@ export function Classes() {
     {
       name: "Muay-Thai",
       description: "Arte marcial tailandesa conhecida como a arte das oito armas",
+      
       image: "https://esyscmmzkkrckempbqti.supabase.co/storage/v1/object/public/beyond/37b6f171-0c40-47e4-bb7e-ee4d58c65717.jpg",
       benefits: ["Cardio intenso", "Força e potência", "Técnicas de striking"],
     },
