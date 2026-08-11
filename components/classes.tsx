@@ -36,7 +36,6 @@ export function Classes() {
     },
     {
       name: "Treino Funcional",
-      
       description: "Exercícios que melhoram a funcionalidade do corpo no dia a dia",
       image: "https://esyscmmzkkrckempbqti.supabase.co/storage/v1/object/public/beyond/a9ec1fdd-9289-440d-8f37-55b84e498fb8.jpg",
       benefits: ["Força funcional", "Mobilidade", "Perda de peso"],
