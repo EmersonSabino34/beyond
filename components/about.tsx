@@ -20,6 +20,7 @@ export function About() {
     {
       icon: Target,
       title: "Resultados",
+
       description: "Metodologia comprovada e eficaz",
     },
   ]
