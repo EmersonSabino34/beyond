@@ -35,6 +35,7 @@ export function Hero() {
             className="border-white text-white hover:bg-white hover:text-black text-lg px-8 bg-transparent"
             asChild
           >
+
             <a
               href="https://www.instagram.com/beyond_peniche"
               target="_blank"
