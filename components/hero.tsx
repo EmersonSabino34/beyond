@@ -18,7 +18,6 @@ export function Hero() {
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <Button size="lg" className="bg-red-600 hover:bg-red-700 text-white text-lg px-8" asChild>
             <a
-
               href="https://wa.me/351912345678"
               target="_blank"
               rel="noopener noreferrer"
