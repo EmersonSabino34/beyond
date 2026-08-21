@@ -8,6 +8,7 @@ const Preview = () => {
              <Image width={500} height={500} src="https://esyscmmzkkrckempbqti.supabase.co/storage/v1/object/public/beyond/yo.jpg" alt="Yoga" />
              <Image width={500} height={500} src="https://esyscmmzkkrckempbqti.supabase.co/storage/v1/object/public/beyond/64677a0e-e68f-4e57-8440-59656fbcd087.jpg" alt="Yoga" />
            </div>
+
            <div className="flex gap-2 items-center">
              <Image width={500} height={500} src="https://esyscmmzkkrckempbqti.supabase.co/storage/v1/object/public/beyond/2c118f62-531b-4ce4-9815-bd7a9ab5b80e.jpg" alt="Jiu-jitsu" />
              <Image width={500} height={500} src="https://esyscmmzkkrckempbqti.supabase.co/storage/v1/object/public/beyond/d18bbc31-d585-49c8-a600-67e850c12016.jpg" alt="jiu-jitsu" />
