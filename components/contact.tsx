@@ -43,6 +43,7 @@ export function Contact() {
                   <p className="text-sm text-muted-foreground">contato@beyondpeniche.pt</p>
                 </div>
               </div>
+
               <div className="flex items-start gap-3">
                 <Instagram className="w-5 h-5 text-red-600 mt-1 flex-shrink-0" />
                 <div>
